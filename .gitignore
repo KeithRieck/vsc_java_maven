@@ -1,0 +1,9 @@
+/bin/
+/build/
+/dist/
+/target/
+*.class
+*.bak
+*.orig
+*~
+.DS_Store
